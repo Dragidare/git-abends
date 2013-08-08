@@ -1,4 +1,4 @@
-GIT Workshop
+GIT Wrkshp
 ------------
 
 Git Repo for *WDD911* trtralalala
