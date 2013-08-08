@@ -1,4 +1,8 @@
 GIT Workshop
 ------------
 
-Git Repo for WDD911
+Git Repo for *WDD911* trtralalala
+
+Heute ist 08.08.2013. Wir sind in Wien!
+
+        
